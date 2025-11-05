@@ -113,6 +113,12 @@ Interfaz web moderna para reconocimiento automatizado de Bug Bounty. Integra sub
 
 **Tech Stack:** Python, Flask, JavaScript, HTML/CSS, Bash
 
+### [🔬 CyberTrack Viña](https://github.com/Suikon1/cyberlab-platform)
+Plataforma web completa para gestión y distribución de máquinas virtuales de práctica en ciberseguridad. Desarrollada para el laboratorio Cybersecurity Track de Duoc UC - Viña del Mar. Incluye sistema de autenticación, panel de administración, filtrado avanzado, descarga de VMs y sistema de writeups.
+
+**Tech Stack:** Next.js, React, Node.js, Express, MySQL, Tailwind CSS
+**⭐ 3 Stars · 🔱 3 Forks**
+
 ---
 
 ## 🎓 Educación
