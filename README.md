@@ -20,7 +20,7 @@ Estudiante de **Ingeniería en Conectividad y Redes** en CITT Duoc UC - Viña de
 - 🏆 **Múltiples premios en CTFs** a nivel nacional
 - 🌱 Aprendiendo continuamente sobre **pentesting**, **explotación de vulnerabilidades** y **seguridad ofensiva**
 - 🔍 Interesado en **Bug Bounty Hunting** y **Red Team Operations**
-- 📍 Ubicado en **Valparaíso, Chile**
+- 📍 Ubicado en **Viña del Mar, Chile**
 
 ---
 
@@ -118,7 +118,7 @@ Interfaz web moderna para reconocimiento automatizado de Bug Bounty. Integra sub
 
 **Ingeniería en Conectividad y Redes**
 CITT Duoc UC - Sede Viña del Mar
-📍 Valparaíso, Chile
+📍 Viña del Mar, Chile
 
 ---
 
