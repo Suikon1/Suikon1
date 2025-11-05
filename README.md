@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hola, soy Suikon
+# Hola, soy Suikon
 
 ### 🔐 Cybersecurity Enthusiast | 🎯 CTF Player | 💻 Network Engineering Student
 
