@@ -21,6 +21,7 @@ Estudiante de **Ingeniería en Conectividad y Redes** en CITT Duoc UC - Viña de
 - 🌱 Aprendiendo continuamente sobre **pentesting**, **explotación de vulnerabilidades** y **seguridad ofensiva**
 - 🔍 Interesado en **Bug Bounty Hunting** y **Red Team Operations**
 - 📍 Ubicado en **Viña del Mar, Chile**
+- 💻 **I use Arch btw** ✨
 
 ---
 
