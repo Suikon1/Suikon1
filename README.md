@@ -32,7 +32,8 @@ Estudiante de **Ingeniería en Conectividad y Redes** en CITT Duoc UC - Viña de
 | Posición | Evento | Fecha | Descripción |
 |----------|--------|-------|-------------|
 | 🥇 **1st Place Team** | HackaTalent Entel 2025 | Dec 2025 | Primer puesto en competencia nacional Entel |
-| 🥇 **1st Place Team** | CTF Bsides 2025 | Oct 2025 | Primer puesto con ~30 equipos participantes (remoto) |
+| 🥉 **3rd Place Team** | CTF Bsides 2025 | Nov 2025 | Tercer puesto con ~30 equipos participantes |
+| 🥇 **1st Place Team** | CTF Bsides 2025 | Oct 2025 | Primer puesto con ~30 equipos participantes |
 | 🏅 **Puntaje Nacional Individual** | Campo de Marte CTF | Oct 2025 | Reconocimiento en 8° Seminario Internacional de Ciberseguridad |
 | 🥉 **3rd Place Team** | Campo de Marte CTF - USM | Oct 2025 | Tercer lugar en Universidad Santa María - Valparaíso |
 | 🥈 **2nd Place Team** | CTF Llaitún - OT Warrior | Jul 2025 | Simulación de incidentes en infraestructuras críticas |
