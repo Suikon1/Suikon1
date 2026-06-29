@@ -2,7 +2,7 @@
 
 # Hola, soy Suikon
 
-### 🔐 Cybersecurity Enthusiast | 🎯 CTF Player | 💻 Network Engineering Student
+### 🔐 Offensive Security @ SEK | 🎯 CTF Player | 💻 Network Engineering Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaro-valdebenito/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suikon1)
@@ -14,11 +14,12 @@
 
 ## 🧑‍💻 Sobre Mí
 
-Estudiante de **Ingeniería en Conectividad y Redes** en CITT Duoc UC — Viña del Mar, Chile, orientado a la **seguridad ofensiva**. Combino una base sólida en redes con práctica constante en **penetration testing**, **Red Teaming** y **Bug Bounty**, respaldada por certificaciones de la industria y múltiples competencias CTF a nivel nacional.
+Estudiante de **Ingeniería en Conectividad y Redes** en CITT Duoc UC — Viña del Mar, Chile, orientado a la **seguridad ofensiva**. Combino una base sólida en redes con práctica profesional en **Penetration Testing**, **Red Teaming** y **Bug Bounty**, respaldada por certificaciones de la industria y múltiples competencias CTF a nivel nacional.
 
+- 💼 **Offensive Security** @ **SEK**
 - 🎓 **Certificaciones:** CPTS · CWES (Hack The Box) — eJPT (INE)
 - 🏆 **Múltiples primeros lugares en CTFs** a nivel nacional
-- 🛡️ Enfocado en **penetration testing**, **Red Team Operations** y **Bug Bounty Hunting**
+- 🛡️ Enfocado en **Penetration Testing**, **Red Team Operations** y **Bug Bounty Hunting**
 - 🌱 En formación continua sobre **explotación de vulnerabilidades** web y Active Directory
 - 📍 Ubicado en **Viña del Mar, Chile**
 - 💻 **I use Arch btw** ✨
