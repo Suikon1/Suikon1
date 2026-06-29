@@ -14,12 +14,12 @@
 
 ## 🧑‍💻 Sobre Mí
 
-Estudiante de **Ingeniería en Conectividad y Redes** en CITT Duoc UC - Viña del Mar, Chile. Apasionado por la **ciberseguridad**, **pentesting** y **CTF competitions**. Actualmente enfocado en **Red Teaming**, **Bug Bounty** y mejorando constantemente mis habilidades técnicas.
+Estudiante de **Ingeniería en Conectividad y Redes** en CITT Duoc UC — Viña del Mar, Chile, orientado a la **seguridad ofensiva**. Combino una base sólida en redes con práctica constante en **penetration testing**, **Red Teaming** y **Bug Bounty**, respaldada por certificaciones de la industria y múltiples competencias CTF a nivel nacional.
 
-- 🎓 **eJPT Certified** (Junior Penetration Tester - INE)
-- 🏆 **Múltiples premios en CTFs** a nivel nacional
-- 🌱 Aprendiendo continuamente sobre **pentesting**, **explotación de vulnerabilidades** y **seguridad ofensiva**
-- 🔍 Interesado en **Bug Bounty Hunting** y **Red Team Operations**
+- 🎓 **Certificaciones:** CPTS · CWES (Hack The Box) — eJPT (INE)
+- 🏆 **Múltiples primeros lugares en CTFs** a nivel nacional
+- 🛡️ Enfocado en **penetration testing**, **Red Team Operations** y **Bug Bounty Hunting**
+- 🌱 En formación continua sobre **explotación de vulnerabilidades** web y Active Directory
 - 📍 Ubicado en **Viña del Mar, Chile**
 - 💻 **I use Arch btw** ✨
 
