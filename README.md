@@ -27,10 +27,11 @@ Estudiante de **Ingeniería en Conectividad y Redes** en CITT Duoc UC - Viña de
 
 ## 🏆 Logros Destacados
 
-### 🥇 Competencias CTF 2025
+### 🥇 Competencias CTF 2025-2026
 
 | Posición | Evento | Fecha | Descripción |
 |----------|--------|-------|-------------|
+| 🥇 **1st Place Team** | Campo de Marte CTF - DUOC UC 2026 | May 2026 | Primer puesto team en competencia Campo de Marte Duoc 2026 |
 | 🥇 **1st Place Team** | HackaTalent Entel 2025 | Dec 2025 | Primer puesto en competencia nacional Entel |
 | 🥉 **3rd Place Team** | CTF Bsides 2025 | Nov 2025 | Tercer puesto con 12 equipos participantes |
 | 🥇 **1st Place Team** | CTF Bsides 2025 | Oct 2025 | Primer puesto con 30 equipos participantes |
@@ -47,6 +48,8 @@ Estudiante de **Ingeniería en Conectividad y Redes** en CITT Duoc UC - Viña de
 <div align="center">
 
 ### Seguridad y Pentesting
+![CPTS](https://img.shields.io/badge/CPTS-Certified_Penetration_Testing_Specialist-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![CWES](https://img.shields.io/badge/CWES-Certified_Web_Exploitation_Specialist-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![eJPT](https://img.shields.io/badge/eJPT-Junior_Penetration_Tester-red?style=for-the-badge&logo=ine&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Control_y_Gestión-Ciberseguridad-blue?style=for-the-badge)
 
